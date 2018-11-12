@@ -1,0 +1,25 @@
+${AnsiBackground.RED}
+${AnsiColor.BLUE}${AnsiStyle.ITALIC} ${AnsiBackground.RED}
+            dddddddd
+            d::::::d                                                            tttt                                    tttt            iiii
+            d::::::d                                                         ttt:::t                                 ttt:::t           i::::i
+            d::::::d                                                         t:::::t                                 t:::::t            iiii
+            d:::::d                                                          t:::::t                                 t:::::t
+    ddddddddd:::::d zzzzzzzzzzzzzzzzz                     ssssssssss   ttttttt:::::ttttttt      aaaaaaaaaaaaa  ttttttt:::::ttttttt    iiiiiii    ooooooooooo   nnnn  nnnnnnnn
+  dd::::::::::::::d z:::::::::::::::z                   ss::::::::::s  t:::::::::::::::::t      a::::::::::::a t:::::::::::::::::t    i:::::i  oo:::::::::::oo n:::nn::::::::nn
+ d::::::::::::::::d z::::::::::::::z                  ss:::::::::::::s t:::::::::::::::::t      aaaaaaaaa:::::at:::::::::::::::::t     i::::i o:::::::::::::::on::::::::::::::nn
+d:::::::ddddd:::::d zzzzzzzz::::::z   --------------- s::::::ssss:::::stttttt:::::::tttttt               a::::atttttt:::::::tttttt     i::::i o:::::ooooo:::::onn:::::::::::::::n
+d::::::d    d:::::d       z::::::z    -:::::::::::::-  s:::::s  ssssss       t:::::t              aaaaaaa:::::a      t:::::t           i::::i o::::o     o::::o  n:::::nnnn:::::n
+d:::::d     d:::::d      z::::::z     ---------------    s::::::s            t:::::t            aa::::::::::::a      t:::::t           i::::i o::::o     o::::o  n::::n    n::::n
+d:::::d     d:::::d     z::::::z                            s::::::s         t:::::t           a::::aaaa::::::a      t:::::t           i::::i o::::o     o::::o  n::::n    n::::n
+d:::::d     d:::::d    z::::::z                       ssssss   s:::::s       t:::::t    tttttta::::a    a:::::a      t:::::t    tttttt i::::i o::::o     o::::o  n::::n    n::::n
+d::::::ddddd::::::dd  z::::::zzzzzzzz                 s:::::ssss::::::s      t::::::tttt:::::ta::::a    a:::::a      t::::::tttt:::::ti::::::io:::::ooooo:::::o  n::::n    n::::n
+ d:::::::::::::::::d z::::::::::::::z                 s::::::::::::::s       tt::::::::::::::ta:::::aaaa::::::a      tt::::::::::::::ti::::::io:::::::::::::::o  n::::n    n::::n
+  d:::::::::ddd::::dz:::::::::::::::z                  s:::::::::::ss          tt:::::::::::tt a::::::::::aa:::a       tt:::::::::::tti::::::i oo:::::::::::oo   n::::n    n::::n
+   ddddddddd   dddddzzzzzzzzzzzzzzzzz                   sssssssssss              ttttttttttt    aaaaaaaaaa  aaaa         ttttttttttt  iiiiiiii   ooooooooooo     nnnnnn    nnnnnn
+
+${AnsiColor.RED}启动时间:2018年11月8号${AnsiBackground.DEFAULT}${AnsiColor.DEFAULT}
+${AnsiColor.GREEN}德州东站项目 by ${AnsiColor.RED}${AnsiStyle.ITALIC}美客信息技术项目组${AnsiStyle.NORMAL}${AnsiColor.DEFAULT}
+${spring-boot.formatted-version}${AnsiColor.DEFAULT}
+${application.version}
+${application.formatted-version}
