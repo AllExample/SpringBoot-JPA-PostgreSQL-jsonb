@@ -1,6 +1,0 @@
-2018-11-09 14:38:18.224 INFO  --- [StartupInfoLogger.java:50][restartedMain] - Starting StationApplication on peng-PC with PID 11864 (started by peng in E:\_My_File_____\_work\MyCode\开发utiles\springboot\官方学习\demo-maven)
-2018-11-09 14:38:18.228 INFO  --- [SpringApplication.java:675][restartedMain] - No active profile set, falling back to default profiles: default
-2018-11-09 14:38:21.059 INFO  --- [StartupInfoLogger.java:59][restartedMain] - Started StationApplication in 3.456 seconds (JVM running for 6.504)
-2018-11-09 22:49:27.647 INFO  --- [StartupInfoLogger.java:50][restartedMain] - Starting StationApplication on peng-PC with PID 7932 (started by peng in E:\_My_File_____\_work\MyCode\开发utiles\springboot\官方学习\demo-maven)
-2018-11-09 22:49:27.655 INFO  --- [SpringApplication.java:675][restartedMain] - No active profile set, falling back to default profiles: default
-2018-11-09 22:49:31.111 INFO  --- [StartupInfoLogger.java:59][restartedMain] - Started StationApplication in 5.344 seconds (JVM running for 6.788)
